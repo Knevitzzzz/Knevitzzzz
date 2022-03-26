@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Knevitz</h1>
 <h3 align="center">A C# Student From Brazil</h3>
 
-- 🔭 I’m currently working on **2D Plataformer Game**
+- 🔭 I’m currently working on [The Forest Samurai](https://github.com/Knevitzzzz/The-Forest-Samurai)
 
 - 🌱 I’m currently learning **C#**
 
